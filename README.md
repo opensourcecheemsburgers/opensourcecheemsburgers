@@ -7,6 +7,6 @@ Hi, I'm Stephen Power - the main developer of Simpill. Check out my [website](ht
 
 ## WIP Projects
 
-Ubiquity - A cross-platform desktop music player created with Tauri.
+Ubiquity - A cross-platform desktop markdown editor created with Tauri and Yew.
 
 Overwatch Game Detector - A cross-platform mobile app for detection of Overwatch matches made with React Native.
